@@ -1,5 +1,5 @@
 function getMessage(){
-	return "Hello from the system";
+	return "Hello from user A";
 }
 
 module.export = getMessage;
